@@ -2,6 +2,8 @@
 
 02_raft_datagen.ipynb is a copy of **1_raft_datagen.ipynb** in the **[RAFT repository](https://github.com/Azure-Samples/azure-openai-raft).**
 <br><br>
+Tthis repo is using the index structure created at **[ragWorkshop](https://github.com/notanaha/ragWorkshop)**
+<br><br>
 RAFT uses the training dataset to provide thought process for getting to the answers.<br>
 The structure of the training dataset is shown in Figure 1.<br>
 <br>
