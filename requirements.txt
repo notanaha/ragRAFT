@@ -14,3 +14,5 @@ tiktoken
 streamlit
 tqdm
 datasets
+ipykernel
+ipywidgets
